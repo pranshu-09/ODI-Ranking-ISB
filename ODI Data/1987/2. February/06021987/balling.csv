@@ -1,0 +1,101 @@
+POS,NAME,TEAM,RATING,CAREER BEST RATING,DATE
+1,Trent Boult,NZ,737,"770 v West Indies, 22/06/2019",1987-02-06
+2,Josh Hazlewood,AUS,709,"733 v England, 26/01/2018",1987-02-06
+3,Mujeeb Ur Rahman,AFG,708,"712 v Ireland, 24/01/2021",1987-02-06
+4,Chris Woakes,ENG,700,"711 v Sri Lanka, 04/07/2021",1987-02-06
+5,Mehedi Hasan,BAN,692,"725 v Sri Lanka, 25/05/2021",1987-02-06
+6,Matt Henry,NZ,691,"691 v Bangladesh, 26/03/2021",1987-02-06
+7,Jasprit Bumrah,IND,679,"841 v West Indies, 01/11/2018",1987-02-06
+8,Mitchell Starc,AUS,652,"783 v New Zealand, 29/03/2015",1987-02-06
+9,Shakib Al Hasan,BAN,650,"717 v Zimbabwe, 05/11/2009",1987-02-06
+10,Kagiso Rabada,SA,643,"724 v England, 29/05/2017",1987-02-06
+11,Mustafizur Rahman,BAN,640,"695 v West Indies, 14/12/2018",1987-02-06
+12,Pat Cummins,AUS,636,"729 v Pakistan, 12/06/2019",1987-02-06
+13,Shaheen Afridi,PAK,630,"637 v England, 10/07/2021",1987-02-06
+14,Mohammad Amir,PAK,628,"663 v Sri Lanka, 02/10/2019",1987-02-06
+15,Rashid Khan,AFG,626,"806 v Pakistan, 21/09/2018",1987-02-06
+16,Adam Zampa,AUS,625,"625 v West Indies, 26/07/2021",1987-02-06
+17,Bhuvneshwar Kumar,IND,621,"657 v West Indies, 17/10/2014",1987-02-06
+18,Lachlan Ferguson,NZ,619,"668 v West Indies, 22/06/2019",1987-02-06
+19,Jofra Archer,ENG,609,"642 v Australia, 13/09/2020",1987-02-06
+20,Yuzvendra Chahal,IND,603,"730 v New Zealand, 23/01/2019",1987-02-06
+21,Mohammad Nabi,AFG,596,"653 v Zimbabwe, 26/02/2017",1987-02-06
+22,Mark Wood,ENG,594,"615 v Afghanistan, 18/06/2019",1987-02-06
+23,Alzarri Joseph,WI,592,"594 v Australia, 22/07/2021",1987-02-06
+24,Lungi Ngidi,SA,587,"621 v Australia, 04/03/2020",1987-02-06
+25,Mitchell Santner,NZ,583,"663 v England, 25/02/2018",1987-02-06
+26,Akila Dananjaya,SL,583,"651 v England, 23/10/2018",1987-02-06
+27,Andy McBrine,IRE,579,"579 v Zimbabwe, 13/09/2021",1987-02-06
+28,Mohammad Shami,IND,566,"654 v Bangladesh, 19/03/2015",1987-02-06
+29,Kuldeep Yadav,IND,562,"765 v New Zealand, 26/01/2019",1987-02-06
+30,Ravindra Jadeja,IND,550,"738 v Zimbabwe, 01/08/2013",1987-02-06
+31,Tabraiz Shamsi,SA,546,"562 v Sri Lanka, 07/09/2021",1987-02-06
+32,Sheldon Cottrell,WI,541,"581 v Sri Lanka, 26/02/2020",1987-02-06
+33,Wanindu Hasaranga,SL,531,"531 v South Africa, 07/09/2021",1987-02-06
+34,Ahmed Raza,UAE,531,"531 v Ireland, 18/01/2021",1987-02-06
+35,Dushmantha Chameera,SL,525,"538 v England, 29/06/2021",1987-02-06
+36,Mark Watt,SCO,519,"529 v Papua New Guinea, 29/09/2021",1987-02-06
+37,Shadab Khan,PAK,517,"607 v South Africa, 22/01/2019",1987-02-06
+38,Colin de Grandhomme,NZ,508,"522 v India, 11/02/2020",1987-02-06
+39,Simi Singh,IRE,507,"507 v Zimbabwe, 13/09/2021",1987-02-06
+40,David Willey,ENG,501,"551 v Sri Lanka, 02/07/2016",1987-02-06
+41,Tim Southee,NZ,500,"638 v England, 20/02/2015",1987-02-06
+42,Adil Rashid,ENG,497,"687 v Sri Lanka, 20/10/2018",1987-02-06
+43,Ish Sodhi,,496,,1987-02-06
+44,Imad Wasim,PAK,488,"570 v England, 19/05/2019",1987-02-06
+45,Hasan Ali,PAK,483,"766 v New Zealand, 06/01/2018",1987-02-06
+46,Usman Khan,PAK,482,"504 v Sri Lanka, 02/10/2019",1987-02-06
+47,Jhye Richardson,AUS,480,"548 v Pakistan, 24/03/2019",1987-02-06
+48,Rohan Mustafa,UAE,477,"477 v Ireland, 18/01/2021",1987-02-06
+49,Keshav Maharaj,SA,476,"494 v Sri Lanka, 07/09/2021",1987-02-06
+50,Blessing Muzarabani,ZIM,470,"470 v Ireland, 13/09/2021",1987-02-06
+51,Mashrafe Mortaza,BAN,469,"653 v Zimbabwe, 23/01/2009",1987-02-06
+52,Mohammad Mohammad Saifuddin,BAN,468,"496 v West Indies, 25/01/2021",1987-02-06
+53,Zeeshan Maqsood,OMA,465,"465 v Namibia, 27/11/2021",1987-02-06
+54,Joshua Little,IRE,463,"463 v Zimbabwe, 13/09/2021",1987-02-06
+55,Jimmy Neesham,NZ,458,"458 v Bangladesh, 26/03/2021",1987-02-06
+56,Tendai Chatara,ZIM,458,"562 v Ireland, 07/03/2015",1987-02-06
+57,Andile Phehlukwayo,SA,456,"613 v Pakistan, 30/01/2019",1987-02-06
+58,Saqib Mahmood,ENG,454,"454 v Pakistan, 13/07/2021",1987-02-06
+59,Nuwan Pradeep,SL,453,"506 v England, 13/10/2018",1987-02-06
+60,Jason Holder,WI,451,"486 v Sri Lanka, 10/03/2021",1987-02-06
+61,Moeen Ali,ENG,449,"629 v Australia, 24/06/2018",1987-02-06
+62,Wahab Riaz,PAK,447,"522 v England, 13/11/2015",1987-02-06
+63,Faheem Ashraf,PAK,445,"477 v South Africa, 02/04/2021",1987-02-06
+64,Akeal Hosein,WI,443,"443 v Australia, 26/07/2021",1987-02-06
+65,Tom Curran,ENG,436,"443 v Sri Lanka, 04/07/2021",1987-02-06
+66,Safyaan Sharif,SCO,436,"542 v England, 10/06/2018",1987-02-06
+67,Suranga Lakmal,SL,436,"594 v Bangladesh, 25/01/2018",1987-02-06
+68,Ashton Agar,AUS,436,"436 v West Indies, 26/07/2021",1987-02-06
+69,Taskin Ahmed,BAN,434,"456 v Sri Lanka, 28/03/2017",1987-02-06
+70,Anrich Nortje,SA,429,"436 v Sri Lanka, 02/09/2021",1987-02-06
+71,Sikandar Raza,ZIM,424,"494 v UAE, 16/04/2019",1987-02-06
+72,Bilal Khan,OMA,422,"422 v Namibia, 27/11/2021",1987-02-06
+73,Saurabh Netravalkar,USA,419,"419 v Oman, 20/09/2021",1987-02-06
+74,Josh Davey,SCO,418,"436 v UAE, 15/12/2019",1987-02-06
+75,Kane Richardson,AUS,416,"448 v India, 17/01/2020",1987-02-06
+76,Sean Williams,ZIM,413,"474 v Sri Lanka, 30/06/2017",1987-02-06
+77,Ben Stokes,ENG,410,"474 v New Zealand, 03/07/2019",1987-02-06
+78,Alasdair Evans,SCO,408,"421 v England, 10/06/2018",1987-02-06
+79,Shardul Thakur,IND,405,"411 v England, 28/03/2021",1987-02-06
+80,Craig Young,IRE,405,"421 v South Africa, 16/07/2021",1987-02-06
+81,Dhananjaya de Silva,SL,401,"412 v Bangladesh, 23/05/2021",1987-02-06
+82,Sandeep Lamichhane,NEP,400,"400 v Oman, 19/09/2021",1987-02-06
+83,Rubel Hossain,BAN,400,"514 v Pakistan, 01/12/2011",1987-02-06
+84,Gulbadin Naib,AFG,399,"472 v Ireland, 21/05/2019",1987-02-06
+85,Chad Soper,PNG,397,"399 v Oman, 26/09/2021",1987-02-06
+86,Hardik Pandya,IND,394,"552 v South Africa, 16/02/2018",1987-02-06
+87,Mitchell Marsh,AUS,390,"511 v New Zealand, 04/12/2016",1987-02-06
+88,Wayne Parnell,SA,387,"550 v West Indies, 28/01/2015",1987-02-06
+89,Barry McCarthy,IRE,385,"448 v West Indies, 09/01/2020",1987-02-06
+90,Fred Klaassen,NED,383,"383 v South Africa, 26/11/2021",1987-02-06
+91,Nosaina Pokana,PNG,380,"384 v Oman, 26/09/2021",1987-02-06
+92,Marcus Stoinis,AUS,377,"426 v England, 25/06/2019",1987-02-06
+93,Michael Leask,SCO,374,"382 v Papua New Guinea, 29/09/2021",1987-02-06
+94,Taijul Islam,BAN,374,"397 v Zimbabwe, 06/03/2020",1987-02-06
+95,Mohammad Nawaz,PAK,370,"376 v South Africa, 07/04/2021",1987-02-06
+96,Assad Vala,PNG,370,"370 v Oman, 01/10/2021",1987-02-06
+97,Lakshan Sandakan,SL,370,"383 v Bangladesh, 25/05/2021",1987-02-06
+98,Donald Tiripano,ZIM,362,"373 v Pakistan, 03/11/2020",1987-02-06
+99,Oshane Thomas,WI,355,"419 v Australia, 06/06/2019",1987-02-06
+100,Kyle Jamieson,NZ,352,"352 v Bangladesh, 26/03/2021",1987-02-06
